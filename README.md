@@ -10,3 +10,5 @@ SimpleLogger repeating actions and messages from users of your server, you are r
 By using the bot, you agree to provide us with certain parameters such as the prefix used and the language used by your server, we do not store any other information.
 
 Finally, by giving certain permissions to the bot you are also responsible for the actions it could perform just as a user with these permissions would do.
+
+No user information is stored or used.
